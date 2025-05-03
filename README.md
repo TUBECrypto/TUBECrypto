@@ -1,16 +1,24 @@
-## Hi there 👋
+# عملة TUBE
 
-<!--
-**TUBECrypto/TUBECrypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+عملة TUBE هي مشروع رقمي مبتكر يهدف إلى **مكافأة المشاهدين والمعجبين بالمحتوى على يوتيوب**، وتحويل دعمهم إلى قوة حقيقية يشعر بها صانعو المحتوى.
 
-Here are some ideas to get you started:
+## الرؤية
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+نحن لا نصنع عملة فقط... بل نعيد تعريف العلاقة بين المشاهد والمحتوى. TUBE ليست مجرد رمز رقمي، إنها تعبير عن التفاعل، والانتماء، والتقدير.
+
+## المميزات
+
+- توزيع عادل على المشاهدين والمعجبين النشطين
+- دمج ذكي مع منصات المحتوى مثل YouTube
+- مشروع مجتمعي بروح لا مركزية
+
+## روابط مهمة
+
+- [موقع المشروع الرسمي](#) (قريباً)
+- [المستند التقني (Whitepaper)](#)
+- [خارطة الطريق](#)
+- [قناة تيليجرام](#)
+
+---
+
+**TUBE: العملة التي تشاهد، وتُشاهد.**
